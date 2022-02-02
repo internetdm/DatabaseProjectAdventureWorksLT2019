@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Barney\\ADSProjects\\DatabaseProjectAdventureWorksLT2019\\DatabaseProjectAdventureWorksLT2019.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Barney\\ADSProjects\\DatabaseProjectAdventureWorksLT2019\\DatabaseProjectAdventureWorksLT2019.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Barney\\ADSProjects\\DatabaseProjectAdventureWorksLT2019\\DatabaseProjectAdventureWorksLT2019.sqlproj",
+        "projectName": "DatabaseProjectAdventureWorksLT2019",
+        "projectPath": "c:\\Users\\Barney\\ADSProjects\\DatabaseProjectAdventureWorksLT2019\\DatabaseProjectAdventureWorksLT2019.sqlproj",
+        "packagesPath": "C:\\Users\\Barney\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Barney\\ADSProjects\\DatabaseProjectAdventureWorksLT2019\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Barney\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

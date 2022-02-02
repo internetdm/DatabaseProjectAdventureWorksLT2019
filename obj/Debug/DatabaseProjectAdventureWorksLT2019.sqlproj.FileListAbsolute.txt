@@ -1,0 +1,10 @@
+c:\Users\Barney\ADSProjects\DatabaseProjectAdventureWorksLT2019\bin\Debug\DatabaseProjectAdventureWorksLT2019.dacpac
+c:\Users\Barney\ADSProjects\DatabaseProjectAdventureWorksLT2019\bin\Debug\DatabaseProjectAdventureWorksLT2019.dll
+c:\Users\Barney\ADSProjects\DatabaseProjectAdventureWorksLT2019\bin\Debug\DatabaseProjectAdventureWorksLT2019.pdb
+c:\Users\Barney\ADSProjects\DatabaseProjectAdventureWorksLT2019\obj\Debug\DatabaseProjectAdventureWorksLT2019.sqlprojAssemblyReference.cache
+c:\Users\Barney\ADSProjects\DatabaseProjectAdventureWorksLT2019\obj\Debug\Model.xml
+c:\Users\Barney\ADSProjects\DatabaseProjectAdventureWorksLT2019\obj\Debug\refactor.xml
+c:\Users\Barney\ADSProjects\DatabaseProjectAdventureWorksLT2019\obj\Debug\postdeploy.sql
+c:\Users\Barney\ADSProjects\DatabaseProjectAdventureWorksLT2019\obj\Debug\predeploy.sql
+c:\Users\Barney\ADSProjects\DatabaseProjectAdventureWorksLT2019\obj\Debug\DatabaseProjectAdventureWorksLT2019.dll
+c:\Users\Barney\ADSProjects\DatabaseProjectAdventureWorksLT2019\obj\Debug\DatabaseProjectAdventureWorksLT2019.pdb
